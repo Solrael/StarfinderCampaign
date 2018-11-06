@@ -40,7 +40,8 @@ namespace StarFinderInventoryManager
         /// </summary>
         public class Status
         {
-
+            int currentHP;
+            int maxHP;
         }
 
         /// <summary>
